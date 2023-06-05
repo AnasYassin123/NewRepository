@@ -1,7 +1,5 @@
 sasas
-<<<<<<< HEAD
 dsadasdsa
 adsad
-=======
 dasdasd
->>>>>>> c0d6abffccf3f2f62cd6aac34eef50e8d5a61ec7
+
